@@ -1,4 +1,6 @@
 # Matter.js Physics Simulation
+![image](https://github.com/Diogojfbraga/Game-Physics-Demo/assets/67931865/04c0cff5-972a-47f8-9ce0-5fcd328eb427)
+
 
 This project is a physics simulation using Matter.js, demonstrating interactions between various bodies, a propeller controlled by arrow keys, a slingshot, and a countdown timer. The example is based on code examples from [brm.io/matter-js](http://brm.io/matter-js/) and [shiffman/p5-matter](https://github.com/shiffman/p5-matter), with additional credit to Benedict Gross.
 
